@@ -1,0 +1,19 @@
+{
+  "name": "todo-backkend",
+  "version": "1.0.0",
+  "description": "making todo-backkend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgShweta/todo-backkend.git"
+  },
+  "author": "shweta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgShweta/todo-backkend/issues"
+  },
+  "homepage": "https://github.com/ProgShweta/todo-backkend#readme"
+}
